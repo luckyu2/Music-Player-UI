@@ -5,7 +5,7 @@ Music-Player-UI，音乐播放器的UI简洁版
 
 > 界面预览
 
- ![示意](https://raw.githubusercontent.com/luckyu2/imgLibrary/main/2024/Snipaste_2024-12-07_02-10-40.png?token=ASDMLEGCR4PNYMEAFTIWZJTHKNDOS)
+ ![示意](img/Snipaste_2024-12-07_02-10-40.png)
 
 
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);我是Yu，祝你拥有美好的一天!&center=true&size=27"> </a> </h1>
